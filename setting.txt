@@ -1,0 +1,6 @@
+SnakeSpeed:1
+WallSpawnAmount:1
+WallColor:1
+SnakeColor:2
+FoodColor:3
+ShowDebug:0

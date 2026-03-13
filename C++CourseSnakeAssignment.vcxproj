@@ -125,9 +125,37 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C++CourseSnakeAssignment.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="gameData.cpp" />
+    <ClCompile Include="inputData.cpp" />
+    <ClCompile Include="levelData.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="map.cpp" />
+    <ClCompile Include="menuPanel.cpp" />
+    <ClCompile Include="Position.cpp" />
+    <ClCompile Include="saving.cpp" />
+    <ClCompile Include="SavingSettings.cpp" />
+    <ClCompile Include="SettingData.cpp" />
+    <ClCompile Include="snake.cpp" />
+    <ClCompile Include="snakeFood.cpp" />
+    <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="console_renderer.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="gameData.h" />
+    <ClInclude Include="inputData.h" />
+    <ClInclude Include="levelData.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="map.h" />
+    <ClInclude Include="menuPanel.h" />
+    <ClInclude Include="Position.h" />
+    <ClInclude Include="saving.h" />
+    <ClInclude Include="SavingSettings.h" />
+    <ClInclude Include="SettingData.h" />
+    <ClInclude Include="snake.h" />
+    <ClInclude Include="snakeFood.h" />
+    <ClInclude Include="UI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
